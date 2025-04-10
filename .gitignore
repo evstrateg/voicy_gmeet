@@ -1,0 +1,20 @@
+# Python virtual environment
+.venv/
+venv/
+*/venv/
+env/
+*/env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm project files
+.idea/
+
+# Secrets / Config files (ВАЖНО!)
+creds_nikson.json
+config_filled.py  # Добавьте, если он содержит секреты и не должен быть в Git
+*.pem
+.env

@@ -1,0 +1,14 @@
+google~=3.0.0
+google-api-python-client~=2.166.0
+google-api-core
+google-cloud-speech
+google-auth-oauthlib
+google-auth-httplib2
+google-cloud-storage
+gspread~=6.2.0
+moviepy~=2.1.2
+pydub~=0.25.1
+python-telegram-bot~=22.0
+protobuf~=5.29.4
+telegram~=0.0.1
+openai~=1.69.0
