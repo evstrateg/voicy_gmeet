@@ -1,4 +1,5 @@
 # Voicy Project: Автоматическая транскрибация и саммаризация встреч
+![image](https://github.com/user-attachments/assets/25ef5862-1c93-4439-a804-7deb99eb0cd5)
 
 ## Описание
 
